@@ -21,7 +21,7 @@ html, body {
 body {
   color: #4a4a4a;
   background-color: #fafbfc;
-  font-family: 'Noto sans KR', san-serif;
+  font-family: 'Noto Sans KR', 'Arial', sans-serif;
   font-weight: 400;
   font-size: 0.85em;
   overflow: hidden;
@@ -107,7 +107,6 @@ a:hover {
   line-height: 25px;
   font-family: 'Piazzolla', serif;
   font-weight: 400;
-  font-style: italic;
 }
 
 .span .brown {
