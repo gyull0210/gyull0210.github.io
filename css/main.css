@@ -65,8 +65,10 @@ a:hover {
 
 }
 
-.author__content {
-  margin-top: 30px;
+.author__content .author__name {
+  margin-top: 20px;
+  text-align: center;
+}
 
 .posts a {
   color: #444;
