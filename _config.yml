@@ -1,3 +1,16 @@
 name: Flex
 markdown: redcarpet
 pygments: true
+
+# Site Settings
+locale: "ko-KR"
+title: "Book and Bookshelf"
+description: "읽은 것과 공부한 것을 정리합니다."
+url: "gyull0210.github.io"
+
+# Site Author
+author:
+name: "귤냥"
+avatar: "/assets/images/profile/poto.jpg" # 프로필 이미지
+bio: "읽은 것과 공부한 것을 정리합니다. 가끔씩 글을 씁니다."
+location: "Republic of Korea"
