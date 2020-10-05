@@ -62,8 +62,8 @@ a:hover {
    border-radius: 70%; 
    display: block;
    margin: auto;
-   solid: #fff;
-   overflow:hidden
+   font-size:0;
+   text-align:center;
 
 }
 
