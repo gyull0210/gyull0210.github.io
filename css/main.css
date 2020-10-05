@@ -59,11 +59,14 @@ a:hover {
    border:3px; 
    border-radius: 70%; 
    display: block;
-   padding: auto;
-   margin-bottom: 30px;
+   padding: 10px;
+   margin: auto;
    solid: #fff;
 
 }
+
+.author__content {
+  margin-top: 30px;
 
 .posts a {
   color: #444;
