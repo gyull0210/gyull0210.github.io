@@ -61,7 +61,7 @@ a:hover {
    border:3px; 
    border-radius: 70%; 
    display: block;
-   margin: 30 30;
+   margin: 30px 30px 30px 30px;
    solid: #fff;
 
 }
