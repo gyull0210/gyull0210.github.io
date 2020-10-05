@@ -53,7 +53,7 @@ a:hover {
 }
 
 
-.author__avatar img {border-radius: 70%; width:200px; height:200px; border:3px; solid:#fff; margin: 30px; text-align:center;}
+.author__avatar img {border-radius: 70%; object-fit: cover; width:200px; height:200px; border:3px; solid:#fff; margin: 30px; text-align:center;}
 
 .posts a {
   color: #444;
