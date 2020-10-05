@@ -105,7 +105,7 @@ a:hover {
 }
 
 .title a {
-  font-family: 'Piazzolla', serif;
+  font-family: 'Piazzolla', serif, italic;
   font-weight: 400;
 }
 
