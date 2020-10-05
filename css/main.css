@@ -28,7 +28,7 @@ body {
 }
 
 a {
-  color: #8085C1;
+  color: #704241;
   text-decoration: none;
   border: none;
 }
@@ -111,7 +111,6 @@ a:hover {
   font-family: 'Piazzolla', serif;
   font-weight: 400;
   font-size: 1.5em;
-  color: #704241;
 }
 
 .tagline {
