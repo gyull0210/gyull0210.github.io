@@ -1,4 +1,4 @@
-name: Book and Bookshelf
+name: "Book and Bookshelf"
 markdown: redcarpet
 pygments: true
 
