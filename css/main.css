@@ -55,6 +55,8 @@ a:hover {
 .author__avatar img {
    max-width:200px;
    width:100%; 
+   max-height:200px;
+   height:100%;
    object-fit: cover;
    border:3px; 
    border-radius: 70%; 
