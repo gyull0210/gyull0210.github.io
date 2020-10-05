@@ -24,8 +24,17 @@
       <div class="sidebar" id="sidebar">
         <div class="header">
           <h1 class="title"><a href="/"><img id="logo" src="/images/logo.png"></a></h1>
-          <span class="tagline">A responsive Jekyll theme</span>
+          <span class="tagline">읽은 것들을 하나씩 모아둡니다.</span>
         </div>
+        <div class="author__avatar">
+        <img src="/images/poto.jpg" alt="귤냥" itemprop="image">
+    </div>
+        <div class="author__content">
+      <h3 class="author__name" itemprop="name">귤냥</h3>
+      <div class="author__bio" itemprop="description">
+        <p>읽은 것과 공부한 것을 정리합니다. 가끔씩 글을 씁니다.</p>
+      </div>
+  </div>
         <div class="posts">
           <ul class="posts-list">
             {% for post in site.posts %}
