@@ -53,14 +53,15 @@ a:hover {
 }
 
 .author__avatar img {
-   width:150px; 
-   height:150px; 
+   width:200px; 
+   height:200px; 
    object-fit: cover;
    border:3px; 
    border-radius: 70%; 
    display: block;
    margin: auto;
-   solid: #fff; 
+   solid: #fff;
+   padding-bottom: 30px;
 }
 
 .posts a {
