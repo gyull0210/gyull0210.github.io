@@ -9,6 +9,9 @@
   padding: 0;
 }
 
+@import url('https://fonts.googleapis.com/css2?family=Piazzolla:ital,wght@1,300;1,400;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+KR:wght@300;400;700&display=swap');
+
 html, body {
   height: 100%;
   width: 100%;
@@ -105,8 +108,9 @@ a:hover {
 }
 
 .title a {
-  font-family: 'Piazzolla', serif, italic;
+  font-family: 'Piazzolla', serif;
   font-weight: 400;
+  font-size: 1.5em;
 }
 
 .tagline {
