@@ -4,7 +4,7 @@ pygments: true
 
 # Site Settings
 locale: "ko-KR"
-title: "Book and Bookshelf"
+title: "책과 책장"
 description: "읽은 것과 공부한 것을 정리합니다."
 url: "gyull0210.github.io"
 
