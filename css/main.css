@@ -59,9 +59,10 @@ a:hover {
    border:3px; 
    border-radius: 70%; 
    display: block;
-   margin: auto;
+   padding: auto;
+   margin-bottom: 30px;
    solid: #fff;
-   padding-bottom: 30px;
+
 }
 
 .posts a {
