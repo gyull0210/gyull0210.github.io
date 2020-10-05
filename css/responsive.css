@@ -30,11 +30,6 @@
     padding-top: 3.85em;
   }
   
-  .author__avatar {
-    max-width: 100%;
-    max-height: 100%;
-  }
-  
   .posts {
     font-size: 0.85em;
   }
@@ -58,11 +53,6 @@
 @media (max-width:640px) {
   #logo {
     max-width: 75px;
-  }
-  
-  .author__avatar {
-    max-width: 75px;
-    max-height: 75px;
   }
 
   #cover-photo-container {
