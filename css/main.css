@@ -55,13 +55,13 @@ a:hover {
 .author__avatar img {
    max-width:200px;
    width:100%; 
-   max-height:200px;
-   height:100%;
+  /*max-height:200px;*/
+   height:auto;
    object-fit: cover;
    border:3px; 
    border-radius: 70%; 
    display: block;
-   margin: 30px 30px 30px 30px;
+   margin: auto;
    solid: #fff;
 
 }
