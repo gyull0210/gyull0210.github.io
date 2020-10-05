@@ -1,5 +1,5 @@
-name: "Book and Bookshelf"
-markdown: redcarpet
+name: Book and Bookshelf
+markdown: kramdown
 pygments: true
 
 # Site Settings
