@@ -52,8 +52,15 @@ a:hover {
   max-width: 128px;
 }
 
-
-.author__avatar img {border-radius: 70%; object-fit: cover; width:200px; height:200px; border:3px; solid:#fff; margin: 30px; text-align:center;}
+.author__avatar img {
+   width:200px; 
+   height:200px; 
+   object-fit: cover;
+   border:3px; 
+   border-radius: 70%; 
+   margin:30px;
+   solid: #fff; 
+}
 
 .posts a {
   color: #444;
