@@ -52,6 +52,8 @@ a:hover {
   max-width: 128px;
 }
 
+#author__avatar {border-radius: 70%; object-fit: cover; border:3px; solid:#fff; margin 30px;}
+
 .posts a {
   color: #444;
 }
