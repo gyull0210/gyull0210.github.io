@@ -58,7 +58,8 @@ a:hover {
    object-fit: cover;
    border:3px; 
    border-radius: 70%; 
-   margin:auto;
+   display: block;
+   margin: auto;
    solid: #fff; 
 }
 
