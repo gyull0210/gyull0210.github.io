@@ -19,7 +19,7 @@ html, body {
 }
 
 body {
-  color: #4a4a4a;
+  color: #704241;
   background-color: #fafbfc;
   font-family: 'Noto Sans KR', 'Arial', sans-serif;
   font-weight: 400;
@@ -27,8 +27,8 @@ body {
   overflow: hidden;
 }
 
-a {
-  color: #704241;
+a { 
+  color: #4a4a4a;
   text-decoration: none;
   border: none;
 }
