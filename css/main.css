@@ -110,6 +110,10 @@ a:hover {
   font-style: italic;
 }
 
+.span .brown {
+  color: #4a4a4a;
+}
+
 .tagline {
   width: 100%;
   color: #787878;
