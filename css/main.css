@@ -106,7 +106,6 @@ a:hover {
   line-height: 25px;
   font-family: 'Piazzolla', serif;
   font-weight: 400;
-  font-style: italic;
 }
 
 .tagline {
@@ -196,7 +195,7 @@ a:hover {
 }
 
 .post p {
-  font-family: 'Source Sans Pro', Arial, sans-serif;
+  font-family: 'Source Sans Pro', 'Arial', sans-serif;
   font-size: 17px;
   margin-bottom: 1.45em;
   text-align: justify;
@@ -252,7 +251,10 @@ a:hover {
 }
 
 .sidebar .title {
-  color:#6F4E37
+  color:#6F4E37;
+  text-align: center;
+  font-family:'piazolla', serif;
+  font-style: italic;
 }
 
 
