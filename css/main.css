@@ -49,8 +49,9 @@ a:hover {
 /* Home
 /*
 /*****************************************************************************/
-#logo {
-  max-width: 128px;
+.header h1.title {
+    color:#6F4E37;
+    font-family:'piazolla', serif;
 }
 
 .author__avatar {
@@ -246,12 +247,6 @@ a:hover {
   padding-right: 2.125em;
   border-right: 1px solid #e7e7e7;
 }
-
-.sidebar h1.title {
-  color:#6F4E37;
-  font-family:'piazolla', serif;
-}
-
 
 .content {
   padding-left: 2.125em;
