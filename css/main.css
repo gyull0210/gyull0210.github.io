@@ -21,7 +21,6 @@ body {
   color: #4A4A4A;
   background-color: #fafbfc;
   font-family: 'Noto Sans KR', 'Arial', sans-serif;
-  font-family: 'Piazzolla', serif;
   font-size: 0.85em;
   overflow: hidden;
 }
@@ -250,7 +249,7 @@ a:hover {
 
 .sidebar .title {
   color:#6F4E37;
-  font-family:'piazolla', serif;
+  font-family:'piazolla', 1, serif;
 }
 
 
