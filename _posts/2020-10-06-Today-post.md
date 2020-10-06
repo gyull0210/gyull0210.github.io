@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "할 게 너무 많아"
+title: 할 게 너무 많아
 cover: cover.jpg
-date:   2020-10-06 14:05:00 +0900
+date: '2020-10-06 14:05:00 +0900'
 categories: posts
+published: true
 ---
 
+![]({{site.baseurl}}/_posts/63a049510352f3038b3629b9f9778cd8.gif)
 Github Blog 서비스인 Jekyll로 블로그를 만들긴 했는데...
 정적 페이지는 또 무슨 말인지 모르겠다.
 게다가 카테고리가 없어서, 카테고리 기능을 하도록 설정해주어야 하는데
