@@ -49,9 +49,9 @@ a:hover {
 /* Home
 /*
 /*****************************************************************************/
-.header > h1.title {
-    color:#6F4E37;
-    font-family:'piazolla', serif;
+.header .title a {
+  font-family:'piazzolla, serif;
+  color: #6F4237;
 }
 
 .author__avatar {
