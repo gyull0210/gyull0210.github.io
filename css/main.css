@@ -49,8 +49,8 @@ a:hover {
 /* Home
 /*
 /*****************************************************************************/
-.header .title a {
-  font-family:'piazzolla, serif;
+.sidebar .title a {
+  font-family:'piazzolla', serif;
   color: #6F4237;
 }
 
