@@ -1,6 +1,6 @@
 name: Book and Bookshelf
 markdown: kramdown
-pygments: true
+highlighter: rouge
 
 # Site Settings
 locale: "ko-KR"
