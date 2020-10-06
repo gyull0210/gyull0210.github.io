@@ -55,6 +55,7 @@ a:hover {
     height: 180px; 
     border-radius: 70%;
     overflow: hidden;
+    margin-top:20px;
 }
 .profile {
     width: 100%;
