@@ -55,7 +55,7 @@ a:hover {
     height: 180px; 
     border-radius: 70%;
     overflow: hidden;
-    margin-top:20px;
+    margin:0 auto;
 }
 .profile {
     width: 100%;
@@ -250,6 +250,7 @@ a:hover {
 .sidebar h1.title {
   color:#6B4C35;
   font-family: 'Piazzolla', serif;
+  font-style:italic;
 }
 
 .content {
