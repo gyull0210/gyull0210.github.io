@@ -25,6 +25,10 @@ body {
   overflow: hidden;
 }
 
+ul li {
+  list-style:none;
+}
+
 a { 
   color: #4a4a4a;
   text-decoration: none;
