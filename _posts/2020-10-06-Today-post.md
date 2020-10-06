@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 할 게 너무 많아
-cover: cover.jpg
+cover: 63a049510352f3038b3629b9f9778cd8.gif
 date: '2020-10-06 14:05:00 +0900'
 categories: posts
 published: true
