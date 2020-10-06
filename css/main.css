@@ -19,7 +19,7 @@ html, body {
 }
 
 body {
-  color: #704241;
+  color: #4A4A4A;
   background-color: #fafbfc;
   font-family: 'Noto Sans KR', 'Arial', sans-serif;
   font-weight: 400;
@@ -109,7 +109,7 @@ a:hover {
   font-weight: 400;
 }
 
-.span .brown {
+.title .blog_title {
   color: #704241;
 }
 
