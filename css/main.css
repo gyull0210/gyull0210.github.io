@@ -109,6 +109,7 @@ a:hover {
   text-align: center;
   margin-top: 0.5em;
   display: block;
+  font-family:'Noto sans KR',sans-serif;
 }
 
 .posts {
@@ -244,6 +245,11 @@ a:hover {
   border-right: 1px solid #e7e7e7;
 }
 
+.sidebar h1.title {
+  color:#6B4C35;
+  font-family: 'piazzolla', serif;
+}
+
 .content {
   padding-left: 2.125em;
 }
@@ -251,7 +257,6 @@ a:hover {
 .header {
   text-align: center;
   padding-top: 2.5em;
-  font-family: 'piazzolla', serif;
   font-size: 1.1em;
 }
 
