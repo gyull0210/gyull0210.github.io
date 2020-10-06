@@ -251,6 +251,11 @@ a:hover {
   border-right: 1px solid #e7e7e7;
 }
 
+.sidebar .title {
+  color:#6F4E37
+}
+
+
 .content {
   padding-left: 2.125em;
 }
