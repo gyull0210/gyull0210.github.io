@@ -255,8 +255,8 @@ a:hover {
 
 .sidebar ul.tt_category {
   border-top:1px solid #e7e7e7;
-  margin:12px 0 0;
-  padding:18px 0 0;
+  margin-top:12px;
+  padding-top:18px;
 }
 
 .sidebar ul.tt_category li {
