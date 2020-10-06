@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "할 게 너무 많아"
+cover: cover.jpg
 date:   2020-10-06 14:05:00 +0900
 categories: 일상
 ---
