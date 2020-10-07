@@ -17,3 +17,6 @@ location: "Republic of Korea"
 twitter_username: comfy_warm
 
 category_list: [ 일상, 공부한 것들, 읽은 것들, 소설 ]
+category_archive:
+  type: liquid
+  path: /categories/
