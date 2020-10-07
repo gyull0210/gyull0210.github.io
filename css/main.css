@@ -269,6 +269,10 @@ a:hover {
   text-align:left;
   margin-bottom:9px;
 }
+
+.sidebar ul.category_list {
+  margin-top:9px
+}    
   
 .content {
   padding-left: 2.125em;
