@@ -37,32 +37,29 @@
         <p>읽은 것과 공부한 것을 정리합니다. 가끔씩 글을 씁니다.</p>
       </div>
      </div>
-<nav class="gnb">        
- <ul class="tt_category">
-  <li class="">
-    <h3><a class="link_tit" href="/category">분류 전체보기
-    </a></h3>
-    <ul class="category_list">
+<div class="sidebar_category">
+  <nav class="gnb">
+    <ul class="tt_category">
       <li class="">
-        <h3><a class="link_item" href="/category/html"> 일상  
-        </a></h3>
-      </li>
-      <li class="">
-        <h3><a class="link_item" href="/category/html">  공부한 것들  
-        </a></h3>
-      </li>
-      <li class="">
-        <h3><a class="link_item" href="/category/html"> 읽은 것들
-        </a></h3>
-      </li>
-      <li class="">
-        <h3><a class="link item" hrerf="/category/html"> 소설  
-        </a></h3>
+        <h3><a class="link_tit" href="/category">분류 전체보기 </a></h3>
+        <ul class="category_list">
+          <li class="">
+            <h3><a class="link_item" href="#"> 일상 </a></h3>
+          </li>
+          <li class="">
+            <h3><a class="link_item" href="#">  공부한 것들 </a></h3>
+          </li>
+          <li class="">
+            <h3><a class="link_item" href="#"> 읽은 것들 </a></h3>
+          </li>
+          <li class="">
+            <h3><a class="link item" hrerf="#"> 소설 </a></h3>
+          </li>
+        </ul>
       </li>
     </ul>
-  </li>
- </ul>
-</nav>       
+  </nav>
+</div>
         <div class="posts">
           <ul class="posts-list">
             {% for post in site.posts %}
