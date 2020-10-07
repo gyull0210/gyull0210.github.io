@@ -73,11 +73,17 @@
           </ul>
         </div>
         
-        <div class="pagination">
-		  <a class="prev no-more-prev" style="display: none;">이전</a>
-	      <a style="display: none;"><span class="selected">1</span></a>
-		  <a class="next no-more-next" style="display: none;">다음</a>
-		</div>
+<s_paging>
+    <div class="paging">
+        <a [##_prev_page_##] class="[##_no_more_prev_##]"><span>◀ Prev</span></a>
+        <span class="numbox">
+        <s_paging_rep>
+            <a [##_paging_rep_link_##] class="num"> [##_paging_rep_link_num_##]</a>
+        </s_paging_rep>
+        </span>
+        <a [##_next_page_##] class="[##_no_more_next_##]"><span> Next ▶</span></a>
+    </div>
+</s_paging>
         
         <div class="footer">
           <span id="footer-links">
